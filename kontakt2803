@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontakt</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Kontaktinformationen</h1>
+    <p><strong>Moritz Bares</strong></p>
+    <p>Mat.-Nr.: 11156618</p>
+    <p>Email: <a href="mailto:moritz.bares@smail.th-koeln.de">moritz.bares@smail.th-koeln.de</a></p>
+
+    <p><strong>Jan Willem Elsner</strong></p>
+    <p>Mat.-Nr.: 11153027</p>
+    <p>Email: <a href="mailto:jan_willem.elsner@smail.th-koeln.de">jan_willem.elsner@smail.th-koeln.de</a></p>
+
+    <p><strong>Ramtin Mirzaei</strong></p>
+    <p>Mat.-Nr.: 11154596</p>
+    <p>Email: <a href="mailto:ramtin.mirzaei@smail.th-koeln.de">ramtin.mirzaei@smail.th-koeln.de</a></p>
+
+    <p><strong>Eyüp Ceyhun Ünver</strong></p>
+    <p>Mat.-Nr.: 11153033</p>
+    <p>Email: <a href="mailto:eyuep_ceyhun.uenver@smail.th-koeln.de">eyuep_ceyhun.uenver@smail.th-koeln.de</a></p>
+</body>
+</html>
+
